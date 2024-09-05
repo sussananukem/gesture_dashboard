@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f60337a-173e-4c94-a76a-bed92bc269d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Dashboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/clean_data-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/mortalisys-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/.idea/Try-solving-data-imbalace-issue-SequenceDetectionWithCVS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/MainFile - RT-Detection with logging and reading multiple csv - Copy 6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-100_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-100_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-101_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-101_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-102_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-102_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-103_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-104_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-104_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-105_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-105_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-106_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-107_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-108_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-108_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-109_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-109_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-110_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-111_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-112_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-113_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-114_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-115_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-116_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-11_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-13_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-75_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-76_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-77_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-78_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-88_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-89_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-90_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-91_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-92_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-93_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-94_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-95_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-96_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-96_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-97_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-97_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-98_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-98_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-99_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-99_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task1-9_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-106_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-107_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-108_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-110_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-110_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-111_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-111_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-112_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-112_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-113_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-114_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-115_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-116_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-117_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-117_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-118_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-118_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-119_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-119_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-120_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-120_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-121_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-121_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-122_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-122_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-123_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-123_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-124_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-124_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-125_5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-125_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-126_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-14_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-22_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-3_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-4_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-5_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-79_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-80_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-81_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task2-82_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-113_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-114_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-115_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-116_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-117_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-127_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-128_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-129_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-12_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-130_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-131_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-132_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-133_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-134_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-13_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-14_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-15_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-15_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-6_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-7_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-83_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-84_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-85_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-86_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task3-87_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-10_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-10_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-135_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-136_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-137_7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-16_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-88_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-89_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-8_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-90_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-91_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-92_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-93_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-94_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P1-Task4-9_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P11-Task1-11_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P11-Task2-12_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P11-Task2-20_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P11-Task4-13_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P11-Task4-21_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P12-Task1-5_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P12-Task1-6_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P12-Task1-7_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P12-Task1-8_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P12-Task2-7_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P12-Task2-9_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P12-Task3-10_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P12-Task3-11_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P12-Task3-12_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P12-Task4-13_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P13-Task2-14_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P13-Task3-15_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P13-Task4-16_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P13-Task4-17_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P14-Task1-25_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P16-Task2-18_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P17-Task1-19_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P17-Task2-20_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P17-Task3-21_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P18-Task1-26_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P19-Task1-22_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P19-Task4-23_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task1-1_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task1-1_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task1-1_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task1-1_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task1-1_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task1-2_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task1-2_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task1-3_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task2-2_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task2-2_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task2-2_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task2-3_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task2-4_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task2-5_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task3-3_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task3-3_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task3-4_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task3-4_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task4-3_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task4-4_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task4-4_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task4-5_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task4-5_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task4-6_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task4-6_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task4-7_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P2-Task4-8_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P20-Task3-24_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task1-53_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task1-77_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task1-78_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task1-79_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task2-186_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task2-187_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task2-25_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task2-48_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task2-54_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task2-55_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task2-56_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task3-49_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task3-57_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task3-80_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task3-81_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task3-82_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task4-26_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task4-50_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task4-58_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task4-59_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task4-60_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task4-83_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P3-Task4-84_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P4-Task1-16_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P4-Task1-23_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P4-Task2-11_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P4-Task2-17_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P4-Task3-12_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P4-Task3-18_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P4-Task4-13_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P4-Task4-19_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P4-Task4-24_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task1-51_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task1-85_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task1-86_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task2-52_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task2-61_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task2-62_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task3-53_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task3-63_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task3-64_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task3-65_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task3-66_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task3-87_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task3-88_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task4-27_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task4-54_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task4-67_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task4-68_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task4-69_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task4-70_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P5-Task4-89_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task1-18_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task1-19_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task1-20_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task1-82_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task1-83_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task2-8_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task3-10_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task3-11_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task3-21_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task3-9_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P6-Task4-12_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P7-Task1-90_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P7-Task1-91_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P7-Task1-92_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P7-Task3-93_3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P7-Task4-55_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P7-Task4-71_6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P8-Task2-56_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P8-Task2-57_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P8-Task3-58_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P8-Task4-28_4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P8-Task4-59_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P9-Task1-14_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P9-Task1-8_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P9-Task2-15_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P9-Task2-16_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P9-Task2-9_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P9-Task3-17_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/SHA-Dataset/P9-Task4-10_8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/action.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/hand_data_csv/class_label_integers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/hand_data_csv/hand_data_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/hand_data_csv/hand_data_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/hand_data_csv/hand_data_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/hand_data_csv/hand_data_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/hand_data_csv/split_filename_log.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model1/processed_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/birthwt_2019.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/birthwt_cleaned.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/clean_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clinical_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clinical_data_cleaned.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mortalisys.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lcaJOPlWddOzV0ZQUjBi68Z57V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f60337a-173e-4c94-a76a-bed92bc269d5" name="Changes" comment="" />
+      <created>1725481746643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725481746643</updated>
+      <workItem from="1725485251858" duration="267000" />
+      <workItem from="1725485550439" duration="537000" />
+      <workItem from="1725486776660" duration="1282000" />
+      <workItem from="1725494346889" duration="6376000" />
+      <workItem from="1725501762084" duration="7103000" />
+      <workItem from="1725508968907" duration="8005000" />
+      <workItem from="1725519906044" duration="6818000" />
+      <workItem from="1725559976476" duration="1838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Dashboard$main.coverage" NAME="main Coverage Results" MODIFIED="1725502631979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
